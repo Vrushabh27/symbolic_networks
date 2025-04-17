@@ -21,4 +21,4 @@ Run each module in a Jupyter notebook or as a script:
 python symbolic_gnn.py
 ```
 
-This will display the symbolic expression for the chosen network output and its first- and second-order derivatives with respect to the inputs.
+This will display the symbolic expression for the chosen network output and its first and second order derivatives with respect to the inputs.
