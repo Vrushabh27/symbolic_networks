@@ -1,4 +1,4 @@
-# Symbolic Neural Network Repository
+# Symbolic Neural Networks
 
 This repository contains Python modules that compute symbolic forward passes and gradients for various neural architectures using Sympy:
 
